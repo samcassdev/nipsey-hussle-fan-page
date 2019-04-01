@@ -1,13 +1,7 @@
-## Installation
+# Nipsey Hussle Fan Page
 
-1. Clone repo
-2. run `npm install`
+<img width="1440" alt="Screen Shot 2019-04-01 at 12 29 08 PM" src="https://user-images.githubusercontent.com/47072462/55344117-8e339800-547a-11e9-8ba4-93c92310bbae.png">
 
-## Usage
+## Languages Used
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+HTML5, CSS3, JavaScript, ExpressJS, NodeJS, MongoDB

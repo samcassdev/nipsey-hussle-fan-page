@@ -48,4 +48,4 @@ app.use(passport.session()); // persistent login sessions
 app.use(flash()); // use connect-flash for flash messages stored in session
 
 app.listen(port);
-console.log('The magic happens on port ' + port);
+console.log('We are now live and direct at ' + port);
